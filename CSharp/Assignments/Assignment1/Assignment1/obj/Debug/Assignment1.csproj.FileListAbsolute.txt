@@ -1,0 +1,7 @@
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Assignments\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
