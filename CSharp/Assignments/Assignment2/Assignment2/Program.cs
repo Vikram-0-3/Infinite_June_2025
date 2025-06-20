@@ -20,7 +20,8 @@ namespace Q1
                     Console.WriteLine("Which question do you want to check in the first 3 questions ?");
                     int qn = Convert.ToInt32(Console.ReadLine());
 
-                    if (qn == 1) {
+                    if (qn == 1)
+                    {
                         SwapNumbers();
                     }
                     else if (qn == 2)
@@ -32,7 +33,7 @@ namespace Q1
                         FindDay();
                     }
                     break;
-                    
+
 
                 case '2':
                     Console.WriteLine("Which question do you want to check in the Array Please enter the option 1/2/3 ?");
@@ -52,7 +53,7 @@ namespace Q1
                     }
                     Console.Read();
                     break;
-                    
+
 
 
                 case '3':
@@ -73,7 +74,7 @@ namespace Q1
                     }
                     Console.Read();
                     break;
-                    
+
 
                 default:
                     Console.WriteLine("Enter a Valid Category Number, Please");
@@ -112,7 +113,8 @@ namespace Q1
 
             if (x > 0)
             {
-                for (int i = 0; i <= 1; i++) {
+                for (int i = 0; i <= 1; i++)
+                {
 
                     Console.WriteLine("{0} {0} {0} {0}", x);
                     Console.WriteLine("{0}{0}{0}{0}", x);
@@ -132,7 +134,7 @@ namespace Q1
             Console.WriteLine("Enter the Number to find day");
             char x = Convert.ToChar(Console.ReadLine());
 
-          
+
             switch (x)
             {
 
@@ -167,7 +169,7 @@ namespace Q1
                 default:
                     Console.WriteLine("Enter a Valid number");
                     break;
-                    
+
 
             }
 
@@ -186,7 +188,7 @@ namespace Q1
             for (int i = 0; i < size; i++)
             {
                 Console.Write($"number {i + 1}: ");
-                num[i] = Convert.ToInt32(Console.ReadLine()); 
+                num[i] = Convert.ToInt32(Console.ReadLine());
             }
 
             double average = num.Average();
@@ -224,8 +226,8 @@ namespace Q1
             var max = marks.Max();
             Console.WriteLine($"The minimum mark and maximum mark is {min} and {max} respetively");
 
-            
-            
+
+
             Console.WriteLine("Marks in ascending order :");
             Array.Sort(marks);
             foreach (int num in marks)
@@ -247,9 +249,9 @@ namespace Q1
         public static void CopyArray()
         {
 
-            int[] num = new int[5] {1,6,5,4,3};
+            int[] num = new int[5] { 1, 6, 5, 4, 3 };
             int size = num.Length;
-            int[] num1 = new int[size];
+            int[] num1 = new int[size-1];
 
             for (int i = 0; i < num.Length; i++)
             {
@@ -257,7 +259,10 @@ namespace Q1
             }
 
             Console.WriteLine("Copying array...");
-            Console.WriteLine(num1);
+            foreach (int n in num)
+            {
+                Console.Write(n + " ");
+            }
 
 
             Console.Read();
@@ -297,7 +302,8 @@ namespace Q1
             Console.WriteLine("Enter the Second word :");
             string s2 = Console.ReadLine();
 
-            if (s1 == s2) {
+            if (s1 == s2)
+            {
 
                 Console.WriteLine("Both the strings are same");
             }
