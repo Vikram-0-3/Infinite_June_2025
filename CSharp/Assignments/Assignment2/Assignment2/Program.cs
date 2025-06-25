@@ -102,7 +102,6 @@ namespace Q1
             Console.WriteLine($"After swapping x = {x} and y = {y}");
 
             Console.Read();
-            Main();
         }
 
         public static void FourtimesRow()
