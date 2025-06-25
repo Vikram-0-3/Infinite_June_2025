@@ -1,0 +1,7 @@
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\bin\Debug\Code_Challenge_1.exe.config
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\bin\Debug\Code_Challenge_1.exe
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\bin\Debug\Code_Challenge_1.pdb
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\obj\Debug\Code_Challenge_1.csproj.AssemblyReference.cache
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\obj\Debug\Code_Challenge_1.csproj.CoreCompileInputs.cache
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\obj\Debug\Code_Challenge_1.exe
+C:\Vikram-0-3\Infinite_June_2025\CSharp\Code_Challenge_1\Code_Challenge_1\obj\Debug\Code_Challenge_1.pdb
