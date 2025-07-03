@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A8A90D7-C5EF-4D01-A8ED-430B18AC4750}</ProjectGuid>
+    <ProjectGuid>{B8EDF885-8809-44F8-89F8-AEC02BC9D64C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assignment4</RootNamespace>
-    <AssemblyName>Assignment4</AssemblyName>
+    <RootNamespace>Code_Challenge_2</RootNamespace>
+    <AssemblyName>Code_Challenge_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Code_Challenge_2.Qn3</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,9 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Qn1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qn2.cs" />
+    <Compile Include="Qn3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
