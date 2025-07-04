@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3B5E0E11-B485-42C0-9EAC-B63F509EDD8D}</ProjectGuid>
+    <ProjectGuid>{65449B86-A8CC-4087-A3F9-C3386BC9D59A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Code_Challenge_1</RootNamespace>
-    <AssemblyName>Code_Challenge_1</AssemblyName>
+    <RootNamespace>Assignment_5</RootNamespace>
+    <AssemblyName>Assignment_5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Code_Challenge_1.Code2</StartupObject>
+    <StartupObject>Books.Qn3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

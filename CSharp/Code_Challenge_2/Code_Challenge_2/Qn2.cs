@@ -18,7 +18,6 @@ namespace Code_Challenge_2
 
             for (int i = 0; i < 10; i++)
             {
-                products[i] = new Product();
 
                 Console.Write("Product ID: ");
                 products[i].ProductId = Convert.ToInt32(Console.ReadLine());

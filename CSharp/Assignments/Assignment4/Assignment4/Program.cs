@@ -84,6 +84,9 @@ class Program
         if (emp != null)
             Console.WriteLine($"ID: {emp.Id}, Name: {emp.Name}, Dept: {emp.Department}, Salary: {emp.Salary}");
         else
+        {
+
+        }
             Console.WriteLine("Employee not found");
     }
 
