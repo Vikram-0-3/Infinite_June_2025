@@ -31,7 +31,7 @@ namespace Books
         }
     }
 
-    class Qn3
+    class Qn1
     {
         static void Main()
         {
