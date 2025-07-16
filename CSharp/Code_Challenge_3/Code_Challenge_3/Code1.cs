@@ -13,7 +13,7 @@ namespace Cricket
                 int Score = Convert.ToInt32(Console.ReadLine());
                 Total = Total + Score;
             }
-            double Average = (double)Total / NoOfMatches;
+            double Average = Total / NoOfMatches;
 
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("Total Matches: " + NoOfMatches);

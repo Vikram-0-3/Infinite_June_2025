@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>delegation.Code4</StartupObject>
+    <StartupObject>Cricket.Code1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

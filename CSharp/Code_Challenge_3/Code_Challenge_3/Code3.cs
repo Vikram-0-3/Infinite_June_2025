@@ -9,7 +9,7 @@ namespace File
         {
             Console.WriteLine("Enter the File name - ");
             string File = Console.ReadLine();
-            Console.Write("Enter text to append: ");
+            Console.Write("Enter text - ");
             string s = Console.ReadLine();
 
             StreamWriter Writer = new StreamWriter(File, true);

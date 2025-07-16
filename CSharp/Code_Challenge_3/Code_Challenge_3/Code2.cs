@@ -50,8 +50,8 @@ namespace box
             int B2 = Convert.ToInt32(Console.ReadLine());
             Box2.SetDimensions(L2, B2);
 
-            Box Box3 = Box1.Add(Box2);
-            Box3.Display();
+            Box B3 = Box1.Add(Box2);
+            B3.Display();
             Console.Read();
         }
     }
