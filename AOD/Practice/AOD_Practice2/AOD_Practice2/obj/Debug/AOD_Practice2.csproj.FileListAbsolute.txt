@@ -1,0 +1,2 @@
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice2\AOD_Practice2\obj\Debug\AOD_Practice2.csproj.AssemblyReference.cache
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice2\AOD_Practice2\obj\Debug\AOD_Practice2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\bin\Debug\AOD_Practice1.exe.config
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\bin\Debug\AOD_Practice1.exe
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\bin\Debug\AOD_Practice1.pdb
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\obj\Debug\AOD_Practice1.csproj.AssemblyReference.cache
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\obj\Debug\AOD_Practice1.csproj.CoreCompileInputs.cache
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\obj\Debug\AOD_Practice1.exe
+C:\Vikram-0-3\Infinite_June_2025\AOD\Practice\AOD_Practice1\AOD_Practice1\obj\Debug\AOD_Practice1.pdb
